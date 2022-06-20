@@ -1,5 +1,3 @@
-# Base-knowledge
-Software Development Dep
 # clean-code-javascript
 
 ## Table of Contents
